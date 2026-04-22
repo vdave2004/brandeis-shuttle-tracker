@@ -1,0 +1,339 @@
+date,route,stop_name,scheduled_time,actual_time,delay_minutes
+08-12-2025,Waltham Shuttle (Mon-Fri),Spingold (front ),12:00,11:59,-0.473033333
+08-12-2025,Waltham Shuttle (Mon-Fri),Admissions,12:01,12:02,1.110466667
+08-12-2025,Waltham Shuttle (Mon-Fri),South St @ Gosman Athletic Ctr (MBTA Stop),12:03,12:04,1.31045
+08-12-2025,Waltham Shuttle (Mon-Fri),Shakespeare Rd and South St (Northbound) (MBTA Stop),12:04,12:05,1.260466667
+08-12-2025,Waltham Shuttle (Mon-Fri),Highland St and South St Northbound (MBTA Stop),12:05,12:05,0.777083333
+08-12-2025,Waltham Shuttle (Mon-Fri),Highland St & Prospect St (Teo Mini Mart),12:06,12:07,1.043683333
+08-12-2025,Waltham Shuttle (Mon-Fri),Crescent St @ Cherry St (in front of Watch Factory) (MBTA Stop),12:09,12:09,0.2939
+08-12-2025,Waltham Shuttle (Mon-Fri),Crescent St and Brown St (MBTA Stop),12:09,12:09,0.460383333
+08-12-2025,Waltham Shuttle (Mon-Fri),Crescent St and Woerd Ave,12:10,12:10,0.427066667
+08-12-2025,Waltham Shuttle (Mon-Fri),Moody St and Washington Ave (MBTA Stop),12:12,12:11,-0.0727
+08-12-2025,Waltham Shuttle (Mon-Fri),Moody ST and Brown Street (MBTA Stop),12:12,12:13,0.610433333
+08-12-2025,Waltham Shuttle (Mon-Fri),Moody St @ Walnut St (Solea Tapas) (MBTA Stop),12:14,12:15,1.0938
+08-12-2025,Waltham Shuttle (Mon-Fri),Moody St @ Kung Fu Tea (MBTA Stop),12:17,12:15,-1.239433333
+08-12-2025,Waltham Shuttle (Mon-Fri),140 Moody St @ Enterprise Rent- A- Car (MBTA Stop),12:19,12:17,-1.939533333
+08-12-2025,Waltham Shuttle (Mon-Fri),Moody St at Main St (Merc Apartments) (MBTA Stop),12:22,12:19,-2.989433333
+08-12-2025,Waltham Shuttle (Mon-Fri),Main St and Grant Street (MBTA Stop),12:24,12:22,-1.00615
+08-12-2025,Waltham Shuttle (Mon-Fri),Main St and Fiske Street (MBTA Stop),12:25,12:23,-1.0895
+08-12-2025,Waltham Shuttle (Mon-Fri),Main St and Hammond St (MBTA Stop),12:25,12:24,-0.889466667
+08-12-2025,Waltham Shuttle (Mon-Fri),South St @ Walgreens (MBTA Stop),12:27,12:25,-1.122833333
+08-12-2025,Waltham Shuttle (Mon-Fri),66 South St @ Giglio Dental (MBTA Stop),12:27,12:26,-0.906066667
+08-12-2025,Waltham Shuttle (Mon-Fri),South St and Bedford Street (MBTA Stop),12:28,12:27,-0.922733333
+08-12-2025,Waltham Shuttle (Mon-Fri),Shakespeare Rd  and  South St (Southbound) (MBTA Stop),12:29,12:27,-1.756216667
+08-12-2025,Waltham Shuttle (Mon-Fri),South Street (southbound) (MBTA Stop),12:31,12:28,-2.28935
+08-12-2025,Waltham Shuttle (Mon-Fri),Counseling Center (Mailman),12:33,12:29,-3.0728
+08-12-2025,Waltham Shuttle (Mon-Fri),Usdan Student Center (across from Rabb steps),12:35,12:32,-2.972966667
+08-12-2025,Waltham Shuttle (Mon-Fri),Hassenfeld Lot,12:36,12:33,-2.572733333
+08-12-2025,Waltham Shuttle (Mon-Fri),Spingold (front ),12:40,12:37,-2.8562
+08-12-2025,Waltham Shuttle (Mon-Fri),Admissions,12:41,12:41,0.1439
+08-12-2025,Waltham Shuttle (Mon-Fri),South St @ Gosman Athletic Ctr (MBTA Stop),12:43,12:43,0.077183333
+08-12-2025,Waltham Shuttle (Mon-Fri),Shakespeare Rd and South St (Northbound) (MBTA Stop),12:44,12:44,0.010533333
+08-12-2025,Waltham Shuttle (Mon-Fri),Highland St and South St Northbound (MBTA Stop),12:45,12:44,-0.5395
+08-12-2025,Waltham Shuttle (Mon-Fri),Highland St & Prospect St (Teo Mini Mart),12:46,12:45,-0.272833333
+08-12-2025,Waltham Shuttle (Mon-Fri),Crescent St @ Cherry St (in front of Watch Factory) (MBTA Stop),12:49,12:47,-1.022783333
+08-12-2025,Waltham Shuttle (Mon-Fri),Crescent St and Brown St (MBTA Stop),12:49,12:48,-0.989366667
+08-12-2025,Waltham Shuttle (Mon-Fri),Crescent St and Woerd Ave,12:50,12:48,-1.039383333
+08-12-2025,Waltham Shuttle (Mon-Fri),Moody St and Washington Ave (MBTA Stop),12:52,12:51,-0.022766667
+08-12-2025,Waltham Shuttle (Mon-Fri),Moody ST and Brown Street (MBTA Stop),12:52,12:52,0.4439
+08-12-2025,Waltham Shuttle (Mon-Fri),Moody St @ Walnut St (Solea Tapas) (MBTA Stop),12:54,12:54,0.243983333
+08-12-2025,Waltham Shuttle (Mon-Fri),Moody St @ Kung Fu Tea (MBTA Stop),12:57,12:55,-1.806016667
+08-12-2025,Waltham Shuttle (Mon-Fri),140 Moody St @ Enterprise Rent- A- Car (MBTA Stop),12:59,12:56,-2.639566667
+08-12-2025,Waltham Shuttle (Mon-Fri),Moody St at Main St (Merc Apartments) (MBTA Stop),13:02,12:59,-2.8893
+08-12-2025,Waltham Shuttle (Mon-Fri),Main St and Grant Street (MBTA Stop),13:04,13:02,-1.35595
+08-12-2025,Waltham Shuttle (Mon-Fri),Main St and Fiske Street (MBTA Stop),13:05,13:04,-0.806083333
+08-12-2025,Waltham Shuttle (Mon-Fri),Main St and Hammond St (MBTA Stop),13:05,13:05,-0.222766667
+08-12-2025,Waltham Shuttle (Mon-Fri),South St @ Walgreens (MBTA Stop),13:07,13:06,-0.806083333
+08-12-2025,Waltham Shuttle (Mon-Fri),66 South St @ Giglio Dental (MBTA Stop),13:07,13:06,-0.55615
+08-12-2025,Waltham Shuttle (Mon-Fri),South St and Bedford Street (MBTA Stop),13:08,13:07,-0.556083333
+08-12-2025,Waltham Shuttle (Mon-Fri),Shakespeare Rd  and  South St (Southbound) (MBTA Stop),13:09,13:08,-0.90605
+08-12-2025,Waltham Shuttle (Mon-Fri),South Street (southbound) (MBTA Stop),13:11,13:09,-1.08925
+08-12-2025,Waltham Shuttle (Mon-Fri),Counseling Center (Mailman),13:13,13:11,-1.622783333
+08-12-2025,Waltham Shuttle (Mon-Fri),Usdan Student Center (across from Rabb steps),13:15,13:12,-2.122866667
+08-12-2025,Waltham Shuttle (Mon-Fri),Hassenfeld Lot,13:16,13:14,-1.056
+08-12-2025,Waltham Shuttle (Mon-Fri),Spingold (front ),13:20,13:17,-2.939466667
+08-12-2025,Waltham Shuttle (Mon-Fri),Admissions,13:21,13:21,0.6438
+08-12-2025,Waltham Shuttle (Mon-Fri),South St @ Gosman Athletic Ctr (MBTA Stop),13:23,13:23,0.610566667
+08-12-2025,Waltham Shuttle (Mon-Fri),Shakespeare Rd and South St (Northbound) (MBTA Stop),13:24,13:25,1.543816667
+08-12-2025,Waltham Shuttle (Mon-Fri),Highland St and South St Northbound (MBTA Stop),13:25,13:25,0.960683333
+08-12-2025,Waltham Shuttle (Mon-Fri),Highland St & Prospect St (Teo Mini Mart),13:26,13:27,1.277333333
+08-12-2025,Waltham Shuttle (Mon-Fri),Crescent St @ Cherry St (in front of Watch Factory) (MBTA Stop),13:29,13:29,0.42725
+08-12-2025,Waltham Shuttle (Mon-Fri),Crescent St and Brown St (MBTA Stop),13:29,13:30,0.57725
+08-12-2025,Waltham Shuttle (Mon-Fri),Crescent St and Woerd Ave,13:30,13:30,0.4941
+08-12-2025,Waltham Shuttle (Mon-Fri),Moody St and Washington Ave (MBTA Stop),13:32,13:32,0.193966667
+08-12-2025,Waltham Shuttle (Mon-Fri),Moody ST and Brown Street (MBTA Stop),13:32,13:33,0.6107
+08-12-2025,Waltham Shuttle (Mon-Fri),Moody St @ Walnut St (Solea Tapas) (MBTA Stop),13:34,13:35,1.193883333
+08-12-2025,Waltham Shuttle (Mon-Fri),Moody St @ Kung Fu Tea (MBTA Stop),13:37,13:36,-0.722733333
+08-12-2025,Waltham Shuttle (Mon-Fri),140 Moody St @ Enterprise Rent- A- Car (MBTA Stop),13:39,13:37,-1.9559
+08-12-2025,Waltham Shuttle (Mon-Fri),Moody St at Main St (Merc Apartments) (MBTA Stop),13:42,13:39,-2.5394
+08-12-2025,Waltham Shuttle (Mon-Fri),Main St and Grant Street (MBTA Stop),13:44,13:42,-1.57275
+08-12-2025,Waltham Shuttle (Mon-Fri),Main St and Fiske Street (MBTA Stop),13:45,13:43,-1.756133333
+08-12-2025,Waltham Shuttle (Mon-Fri),Main St and Hammond St (MBTA Stop),13:45,13:44,-1.439433333
+08-12-2025,Waltham Shuttle (Mon-Fri),South St @ Walgreens (MBTA Stop),13:47,13:45,-1.539333333
+08-12-2025,Waltham Shuttle (Mon-Fri),66 South St @ Giglio Dental (MBTA Stop),13:47,13:46,-0.6726
+08-12-2025,Waltham Shuttle (Mon-Fri),South St and Bedford Street (MBTA Stop),13:48,13:47,-0.322716667
+08-12-2025,Waltham Shuttle (Mon-Fri),Shakespeare Rd  and  South St (Southbound) (MBTA Stop),13:49,13:48,-0.705966667
+08-12-2025,Waltham Shuttle (Mon-Fri),South Street (southbound) (MBTA Stop),13:51,13:49,-1.272516667
+08-12-2025,Waltham Shuttle (Mon-Fri),Counseling Center (Mailman),13:53,13:50,-2.03945
+08-12-2025,Waltham Shuttle (Mon-Fri),Usdan Student Center (across from Rabb steps),13:55,13:52,-2.356166667
+08-12-2025,Waltham Shuttle (Mon-Fri),Hassenfeld Lot,13:56,13:54,-1.189233333
+08-12-2025,Waltham Shuttle (Mon-Fri),Spingold (front ),14:00,13:57,-2.922733333
+08-12-2025,Waltham Shuttle (Mon-Fri),Admissions,14:01,14:04,3.01065
+08-12-2025,Waltham Shuttle (Mon-Fri),South St @ Gosman Athletic Ctr (MBTA Stop),14:03,14:06,3.193933333
+08-12-2025,Waltham Shuttle (Mon-Fri),Shakespeare Rd and South St (Northbound) (MBTA Stop),14:04,14:07,3.360583333
+08-12-2025,Waltham Shuttle (Mon-Fri),Highland St and South St Northbound (MBTA Stop),14:05,14:07,2.777433333
+08-12-2025,Waltham Shuttle (Mon-Fri),Highland St & Prospect St (Teo Mini Mart),14:06,14:08,2.943933333
+08-12-2025,Waltham Shuttle (Mon-Fri),Crescent St @ Cherry St (in front of Watch Factory) (MBTA Stop),14:09,14:10,1.9106
+08-12-2025,Waltham Shuttle (Mon-Fri),Crescent St and Brown St (MBTA Stop),14:09,14:11,1.86065
+08-12-2025,Waltham Shuttle (Mon-Fri),Crescent St and Woerd Ave,14:10,14:11,1.82755
+08-12-2025,Waltham Shuttle (Mon-Fri),Moody St and Washington Ave (MBTA Stop),14:12,14:13,1.51065
+08-12-2025,Waltham Shuttle (Mon-Fri),Moody ST and Brown Street (MBTA Stop),14:12,14:14,1.860733333
+08-12-2025,Waltham Shuttle (Mon-Fri),Moody St @ Walnut St (Solea Tapas) (MBTA Stop),14:14,14:16,2.110666667
+08-12-2025,Waltham Shuttle (Mon-Fri),Moody St @ Kung Fu Tea (MBTA Stop),14:17,14:17,0.21075
+08-12-2025,Waltham Shuttle (Mon-Fri),140 Moody St @ Enterprise Rent- A- Car (MBTA Stop),14:19,14:19,0.127466667
+08-12-2025,Waltham Shuttle (Mon-Fri),Moody St at Main St (Merc Apartments) (MBTA Stop),14:22,14:20,-1.65615
+08-12-2025,Waltham Shuttle (Mon-Fri),Main St and Grant Street (MBTA Stop),14:24,14:23,-0.8894
+08-12-2025,Waltham Shuttle (Mon-Fri),Main St and Fiske Street (MBTA Stop),14:25,14:24,-0.939316667
+08-12-2025,Waltham Shuttle (Mon-Fri),Main St and Hammond St (MBTA Stop),14:25,14:25,-0.406083333
+08-12-2025,Waltham Shuttle (Mon-Fri),South St @ Walgreens (MBTA Stop),14:27,14:26,-0.22275
+08-12-2025,Waltham Shuttle (Mon-Fri),66 South St @ Giglio Dental (MBTA Stop),14:27,14:27,0.26075
+08-12-2025,Waltham Shuttle (Mon-Fri),South St and Bedford Street (MBTA Stop),14:28,14:28,0.5606
+08-12-2025,Waltham Shuttle (Mon-Fri),Shakespeare Rd  and  South St (Southbound) (MBTA Stop),14:29,14:29,0.094033333
+08-12-2025,Waltham Shuttle (Mon-Fri),South Street (southbound) (MBTA Stop),14:31,14:30,-0.289316667
+08-12-2025,Waltham Shuttle (Mon-Fri),Counseling Center (Mailman),14:33,14:32,-0.806083333
+08-12-2025,Waltham Shuttle (Mon-Fri),Usdan Student Center (across from Rabb steps),14:35,14:34,-0.9894
+08-12-2025,Waltham Shuttle (Mon-Fri),Hassenfeld Lot,14:36,14:36,0.110733333
+08-12-2025,Waltham Shuttle (Mon-Fri),Spingold (front ),14:40,14:37,-2.93945
+08-12-2025,Waltham Shuttle (Mon-Fri),Admissions,14:41,14:41,0.410633333
+08-12-2025,Waltham Shuttle (Mon-Fri),South St @ Gosman Athletic Ctr (MBTA Stop),14:43,14:43,0.327366667
+08-12-2025,Waltham Shuttle (Mon-Fri),Shakespeare Rd and South St (Northbound) (MBTA Stop),14:44,14:44,0.6273
+08-12-2025,Waltham Shuttle (Mon-Fri),Highland St and South St Northbound (MBTA Stop),14:45,14:45,0.060883333
+08-12-2025,Waltham Shuttle (Mon-Fri),Highland St & Prospect St (Teo Mini Mart),14:46,14:47,1.97725
+08-12-2025,Waltham Shuttle (Mon-Fri),Crescent St @ Cherry St (in front of Watch Factory) (MBTA Stop),14:49,14:50,1.8774
+08-12-2025,Waltham Shuttle (Mon-Fri),Crescent St and Brown St (MBTA Stop),14:49,14:51,2.0106
+08-12-2025,Waltham Shuttle (Mon-Fri),Crescent St and Woerd Ave,14:50,14:51,1.977316667
+08-12-2025,Waltham Shuttle (Mon-Fri),Moody St and Washington Ave (MBTA Stop),14:52,14:54,2.227283333
+08-12-2025,Waltham Shuttle (Mon-Fri),Moody ST and Brown Street (MBTA Stop),14:52,14:55,2.577416667
+08-12-2025,Waltham Shuttle (Mon-Fri),Moody St @ Walnut St (Solea Tapas) (MBTA Stop),14:54,14:57,3.444183333
+08-12-2025,Waltham Shuttle (Mon-Fri),Moody St @ Kung Fu Tea (MBTA Stop),14:57,14:58,1.09415
+08-12-2025,Waltham Shuttle (Mon-Fri),140 Moody St @ Enterprise Rent- A- Car (MBTA Stop),14:59,14:59,0.510633333
+08-12-2025,Waltham Shuttle (Mon-Fri),Moody St at Main St (Merc Apartments) (MBTA Stop),15:02,15:01,-0.772666667
+08-12-2025,Waltham Shuttle (Mon-Fri),Main St and Grant Street (MBTA Stop),15:04,15:03,-0.605866667
+08-12-2025,Waltham Shuttle (Mon-Fri),Main St and Fiske Street (MBTA Stop),15:05,15:04,-0.7394
+08-12-2025,Waltham Shuttle (Mon-Fri),Main St and Hammond St (MBTA Stop),15:05,15:05,-0.305966667
+08-12-2025,Waltham Shuttle (Mon-Fri),South St @ Walgreens (MBTA Stop),15:07,15:07,0.64405
+08-12-2025,Waltham Shuttle (Mon-Fri),66 South St @ Giglio Dental (MBTA Stop),15:07,15:08,0.710783333
+08-12-2025,Waltham Shuttle (Mon-Fri),South St and Bedford Street (MBTA Stop),15:08,15:08,0.76075
+08-12-2025,Waltham Shuttle (Mon-Fri),Shakespeare Rd  and  South St (Southbound) (MBTA Stop),15:09,15:10,0.593983333
+08-12-2025,Waltham Shuttle (Mon-Fri),South Street (southbound) (MBTA Stop),15:11,15:11,0.044216667
+08-12-2025,Waltham Shuttle (Mon-Fri),Counseling Center (Mailman),15:13,15:12,-0.739416667
+08-12-2025,Waltham Shuttle (Mon-Fri),Usdan Student Center (across from Rabb steps),15:15,15:13,-1.122733333
+08-12-2025,Waltham Shuttle (Mon-Fri),Hassenfeld Lot,15:16,15:16,0.060616667
+08-12-2025,Waltham Shuttle (Mon-Fri),Spingold (front ),15:20,15:17,-2.956033333
+08-12-2025,Waltham Shuttle (Mon-Fri),Admissions,15:21,15:20,-0.039266667
+08-12-2025,Waltham Shuttle (Mon-Fri),South St @ Gosman Athletic Ctr (MBTA Stop),15:23,15:23,0.177416667
+08-12-2025,Waltham Shuttle (Mon-Fri),Shakespeare Rd and South St (Northbound) (MBTA Stop),15:24,15:24,0.044183333
+08-12-2025,Waltham Shuttle (Mon-Fri),Highland St and South St Northbound (MBTA Stop),15:25,15:24,-0.506
+08-12-2025,Waltham Shuttle (Mon-Fri),Highland St & Prospect St (Teo Mini Mart),15:26,15:25,-0.32255
+08-12-2025,Waltham Shuttle (Mon-Fri),Crescent St @ Cherry St (in front of Watch Factory) (MBTA Stop),15:29,15:28,-0.639416667
+08-12-2025,Waltham Shuttle (Mon-Fri),Crescent St and Brown St (MBTA Stop),15:29,15:28,-0.772666667
+08-12-2025,Waltham Shuttle (Mon-Fri),Crescent St and Woerd Ave,15:30,15:29,-0.856
+08-12-2025,Waltham Shuttle (Mon-Fri),Moody St and Washington Ave (MBTA Stop),15:32,15:31,-0.722683333
+08-12-2025,Waltham Shuttle (Mon-Fri),Moody ST and Brown Street (MBTA Stop),15:32,15:32,-0.122666667
+08-12-2025,Waltham Shuttle (Mon-Fri),Moody St @ Walnut St (Solea Tapas) (MBTA Stop),15:34,15:34,0.02725
+08-12-2025,Waltham Shuttle (Mon-Fri),Moody St @ Kung Fu Tea (MBTA Stop),15:37,15:35,-1.655933333
+08-12-2025,Waltham Shuttle (Mon-Fri),140 Moody St @ Enterprise Rent- A- Car (MBTA Stop),15:39,15:36,-2.672733333
+08-12-2025,Waltham Shuttle (Mon-Fri),Moody St at Main St (Merc Apartments) (MBTA Stop),15:42,15:39,-2.972716667
+08-12-2025,Waltham Shuttle (Mon-Fri),Main St and Grant Street (MBTA Stop),15:44,15:42,-1.256083333
+08-12-2025,Waltham Shuttle (Mon-Fri),Main St and Fiske Street (MBTA Stop),15:45,15:43,-1.355933333
+08-12-2025,Waltham Shuttle (Mon-Fri),Main St and Hammond St (MBTA Stop),15:45,15:44,-0.955966667
+08-12-2025,Waltham Shuttle (Mon-Fri),South St @ Walgreens (MBTA Stop),15:47,15:46,-0.572683333
+08-12-2025,Waltham Shuttle (Mon-Fri),66 South St @ Giglio Dental (MBTA Stop),15:47,15:47,0.094
+08-12-2025,Waltham Shuttle (Mon-Fri),South St and Bedford Street (MBTA Stop),15:48,15:48,0.32725
+08-12-2025,Waltham Shuttle (Mon-Fri),Shakespeare Rd  and  South St (Southbound) (MBTA Stop),15:49,15:49,0.344
+08-12-2025,Waltham Shuttle (Mon-Fri),South Street (southbound) (MBTA Stop),15:51,15:50,-0.589116667
+08-12-2025,Waltham Shuttle (Mon-Fri),Counseling Center (Mailman),15:53,15:51,-1.40605
+08-12-2025,Waltham Shuttle (Mon-Fri),Usdan Student Center (across from Rabb steps),15:55,15:53,-1.6893
+08-12-2025,Waltham Shuttle (Mon-Fri),Hassenfeld Lot,15:56,15:55,-0.3226
+08-12-2025,Waltham Shuttle (Mon-Fri),Spingold (front ),16:00,15:57,-2.972716667
+08-12-2025,Waltham Shuttle (Mon-Fri),Admissions,16:01,16:00,-0.022666667
+08-12-2025,Waltham Shuttle (Mon-Fri),South St @ Gosman Athletic Ctr (MBTA Stop),16:03,16:02,-0.006033333
+08-12-2025,Waltham Shuttle (Mon-Fri),Shakespeare Rd and South St (Northbound) (MBTA Stop),16:04,16:04,0.343916667
+08-12-2025,Waltham Shuttle (Mon-Fri),Highland St and South St Northbound (MBTA Stop),16:05,16:04,-0.25615
+08-12-2025,Waltham Shuttle (Mon-Fri),Highland St & Prospect St (Teo Mini Mart),16:06,16:06,0.094133333
+08-12-2025,Waltham Shuttle (Mon-Fri),Crescent St @ Cherry St (in front of Watch Factory) (MBTA Stop),16:09,16:07,-1.356066667
+08-12-2025,Waltham Shuttle (Mon-Fri),Crescent St and Brown St (MBTA Stop),16:09,16:08,-1.42285
+08-12-2025,Waltham Shuttle (Mon-Fri),Crescent St and Woerd Ave,16:10,16:08,-1.4891
+08-12-2025,Waltham Shuttle (Mon-Fri),Moody St and Washington Ave (MBTA Stop),16:12,16:10,-1.656016667
+08-12-2025,Waltham Shuttle (Mon-Fri),Moody ST and Brown Street (MBTA Stop),16:12,16:11,-0.83945
+08-12-2025,Waltham Shuttle (Mon-Fri),Moody St @ Walnut St (Solea Tapas) (MBTA Stop),16:14,16:13,-0.53925
+08-12-2025,Waltham Shuttle (Mon-Fri),Moody St @ Kung Fu Tea (MBTA Stop),16:17,16:14,-2.5227
+08-12-2025,Waltham Shuttle (Mon-Fri),140 Moody St @ Enterprise Rent- A- Car (MBTA Stop),16:19,16:15,-3.15595
+08-12-2025,Waltham Shuttle (Mon-Fri),Moody St at Main St (Merc Apartments) (MBTA Stop),16:22,16:19,-2.822766667
+08-12-2025,Waltham Shuttle (Mon-Fri),Main St and Grant Street (MBTA Stop),16:24,16:22,-1.58945
+08-12-2025,Waltham Shuttle (Mon-Fri),Main St and Fiske Street (MBTA Stop),16:25,16:23,-1.039383333
+08-12-2025,Waltham Shuttle (Mon-Fri),Main St and Hammond St (MBTA Stop),16:25,16:25,0.01065
+08-12-2025,Waltham Shuttle (Mon-Fri),South St @ Walgreens (MBTA Stop),16:27,16:27,0.1772
+08-12-2025,Waltham Shuttle (Mon-Fri),66 South St @ Giglio Dental (MBTA Stop),16:27,16:28,0.810666667
+08-12-2025,Waltham Shuttle (Mon-Fri),South St and Bedford Street (MBTA Stop),16:28,16:29,1.077333333
+08-12-2025,Waltham Shuttle (Mon-Fri),Shakespeare Rd  and  South St (Southbound) (MBTA Stop),16:29,16:30,0.9605
+08-12-2025,Waltham Shuttle (Mon-Fri),South Street (southbound) (MBTA Stop),16:31,16:31,0.443883333
+08-12-2025,Waltham Shuttle (Mon-Fri),Counseling Center (Mailman),16:33,16:33,0.043983333
+08-12-2025,Waltham Shuttle (Mon-Fri),Usdan Student Center (across from Rabb steps),16:35,16:34,-0.572633333
+08-12-2025,Waltham Shuttle (Mon-Fri),Hassenfeld Lot,16:36,16:36,0.7773
+08-12-2025,Waltham Shuttle (Mon-Fri),Spingold (front ),16:40,16:37,-2.37275
+08-12-2025,Waltham Shuttle (Mon-Fri),Admissions,16:41,16:43,2.043866667
+08-12-2025,Waltham Shuttle (Mon-Fri),South St @ Gosman Athletic Ctr (MBTA Stop),16:43,16:44,1.993983333
+08-12-2025,Waltham Shuttle (Mon-Fri),Shakespeare Rd and South St (Northbound) (MBTA Stop),16:44,16:46,2.01055
+08-12-2025,Waltham Shuttle (Mon-Fri),Highland St and South St Northbound (MBTA Stop),16:45,16:46,1.477283333
+08-12-2025,Waltham Shuttle (Mon-Fri),Highland St & Prospect St (Teo Mini Mart),16:46,16:47,1.6606
+08-12-2025,Waltham Shuttle (Mon-Fri),Crescent St @ Cherry St (in front of Watch Factory) (MBTA Stop),16:49,16:49,0.4106
+08-12-2025,Waltham Shuttle (Mon-Fri),Crescent St and Brown St (MBTA Stop),16:49,16:49,0.3106
+08-12-2025,Waltham Shuttle (Mon-Fri),Crescent St and Woerd Ave,16:50,16:50,0.27725
+08-12-2025,Waltham Shuttle (Mon-Fri),Moody St and Washington Ave (MBTA Stop),16:52,16:51,-0.022683333
+08-12-2025,Waltham Shuttle (Mon-Fri),Moody ST and Brown Street (MBTA Stop),16:52,16:53,0.643933333
+08-12-2025,Waltham Shuttle (Mon-Fri),Moody St @ Walnut St (Solea Tapas) (MBTA Stop),16:54,16:55,1.37715
+08-12-2025,Waltham Shuttle (Mon-Fri),Moody St @ Kung Fu Tea (MBTA Stop),16:57,16:56,-0.32265
+08-12-2025,Waltham Shuttle (Mon-Fri),140 Moody St @ Enterprise Rent- A- Car (MBTA Stop),16:59,16:58,-0.639266667
+08-12-2025,Waltham Shuttle (Mon-Fri),Moody St at Main St (Merc Apartments) (MBTA Stop),17:02,16:59,-2.089433333
+08-12-2025,Waltham Shuttle (Mon-Fri),Main St and Grant Street (MBTA Stop),17:04,17:02,-1.3227
+08-12-2025,Waltham Shuttle (Mon-Fri),Main St and Fiske Street (MBTA Stop),17:05,17:04,-0.889183333
+08-12-2025,Waltham Shuttle (Mon-Fri),Main St and Hammond St (MBTA Stop),17:05,17:05,-0.356166667
+08-12-2025,Waltham Shuttle (Mon-Fri),South St @ Walgreens (MBTA Stop),17:07,17:07,0.310533333
+08-12-2025,Waltham Shuttle (Mon-Fri),66 South St @ Giglio Dental (MBTA Stop),17:07,17:08,0.943866667
+08-12-2025,Waltham Shuttle (Mon-Fri),South St and Bedford Street (MBTA Stop),17:08,17:09,1.210783333
+08-12-2025,Waltham Shuttle (Mon-Fri),Shakespeare Rd  and  South St (Southbound) (MBTA Stop),17:09,17:10,1.444016667
+08-12-2025,Waltham Shuttle (Mon-Fri),South Street (southbound) (MBTA Stop),17:11,17:12,1.06065
+08-12-2025,Waltham Shuttle (Mon-Fri),Counseling Center (Mailman),17:13,17:13,0.727183333
+08-12-2025,Waltham Shuttle (Mon-Fri),Usdan Student Center (across from Rabb steps),17:15,17:15,0.3273
+08-12-2025,Waltham Shuttle (Mon-Fri),Hassenfeld Lot,17:16,17:18,2.510733333
+08-12-2025,Waltham Shuttle (Mon-Fri),Spingold (front ),17:20,17:19,-0.756166667
+08-12-2025,Waltham Shuttle (Mon-Fri),Admissions,17:21,17:23,2.060583333
+08-12-2025,Waltham Shuttle (Mon-Fri),South St @ Gosman Athletic Ctr (MBTA Stop),17:23,17:25,2.0272
+08-12-2025,Waltham Shuttle (Mon-Fri),Shakespeare Rd and South St (Northbound) (MBTA Stop),17:24,17:26,2.0773
+08-12-2025,Waltham Shuttle (Mon-Fri),Highland St and South St Northbound (MBTA Stop),17:25,17:26,1.727233333
+08-12-2025,Waltham Shuttle (Mon-Fri),Highland St & Prospect St (Teo Mini Mart),17:26,17:28,2.160716667
+08-12-2025,Waltham Shuttle (Mon-Fri),Crescent St @ Cherry St (in front of Watch Factory) (MBTA Stop),17:29,17:29,0.543983333
+08-12-2025,Waltham Shuttle (Mon-Fri),Crescent St and Brown St (MBTA Stop),17:29,17:29,0.344
+08-12-2025,Waltham Shuttle (Mon-Fri),Crescent St and Woerd Ave,17:30,17:30,0.19385
+08-12-2025,Waltham Shuttle (Mon-Fri),Moody St and Washington Ave (MBTA Stop),17:32,17:31,-0.139383333
+08-12-2025,Waltham Shuttle (Mon-Fri),Moody ST and Brown Street (MBTA Stop),17:32,17:32,0.227333333
+08-12-2025,Waltham Shuttle (Mon-Fri),Moody St @ Walnut St (Solea Tapas) (MBTA Stop),17:34,17:34,0.160666667
+08-12-2025,Waltham Shuttle (Mon-Fri),Moody St @ Kung Fu Tea (MBTA Stop),17:37,17:35,-1.256116667
+08-12-2025,Waltham Shuttle (Mon-Fri),140 Moody St @ Enterprise Rent- A- Car (MBTA Stop),17:39,17:38,-0.0562
+08-12-2025,Waltham Shuttle (Mon-Fri),Moody St at Main St (Merc Apartments) (MBTA Stop),17:42,17:39,-2.156166667
+08-12-2025,Waltham Shuttle (Mon-Fri),Main St and Grant Street (MBTA Stop),17:44,17:42,-1.422733333
+08-12-2025,Waltham Shuttle (Mon-Fri),Main St and Fiske Street (MBTA Stop),17:45,17:44,-0.522816667
+08-12-2025,Waltham Shuttle (Mon-Fri),Main St and Hammond St (MBTA Stop),17:45,17:45,-0.222816667
+08-12-2025,Waltham Shuttle (Mon-Fri),South St @ Walgreens (MBTA Stop),17:47,17:47,0.443883333
+08-12-2025,Waltham Shuttle (Mon-Fri),66 South St @ Giglio Dental (MBTA Stop),17:47,17:48,0.87715
+08-12-2025,Waltham Shuttle (Mon-Fri),South St and Bedford Street (MBTA Stop),17:48,17:48,0.827233333
+08-12-2025,Waltham Shuttle (Mon-Fri),Shakespeare Rd  and  South St (Southbound) (MBTA Stop),17:49,17:49,0.19375
+08-12-2025,Waltham Shuttle (Mon-Fri),South Street (southbound) (MBTA Stop),17:51,17:50,-0.00615
+08-12-2025,Waltham Shuttle (Mon-Fri),Counseling Center (Mailman),17:53,17:52,-0.50615
+08-12-2025,Waltham Shuttle (Mon-Fri),Usdan Student Center (across from Rabb steps),17:55,17:54,-0.972866667
+08-12-2025,Waltham Shuttle (Mon-Fri),Hassenfeld Lot,17:56,17:56,0.94385
+08-12-2025,Waltham Shuttle (Mon-Fri),Spingold (front ),18:00,17:57,-2.2893
+08-12-2025,Waltham Shuttle (Mon-Fri),Admissions,18:01,18:01,0.227183333
+08-12-2025,Waltham Shuttle (Mon-Fri),South St @ Gosman Athletic Ctr (MBTA Stop),18:03,18:03,0.360466667
+08-12-2025,Waltham Shuttle (Mon-Fri),Shakespeare Rd and South St (Northbound) (MBTA Stop),18:04,18:04,0.2605
+08-12-2025,Waltham Shuttle (Mon-Fri),Highland St and South St Northbound (MBTA Stop),18:05,18:04,-0.005983333
+08-12-2025,Waltham Shuttle (Mon-Fri),Highland St & Prospect St (Teo Mini Mart),18:06,18:05,-0.022766667
+08-12-2025,Waltham Shuttle (Mon-Fri),Crescent St @ Cherry St (in front of Watch Factory) (MBTA Stop),18:09,18:08,-0.87285
+08-12-2025,Waltham Shuttle (Mon-Fri),Crescent St and Brown St (MBTA Stop),18:09,18:08,-0.8895
+08-12-2025,Waltham Shuttle (Mon-Fri),Crescent St and Woerd Ave,18:10,18:09,-0.82275
+08-12-2025,Waltham Shuttle (Mon-Fri),Moody St and Washington Ave (MBTA Stop),18:12,18:10,-1.072716667
+08-12-2025,Waltham Shuttle (Mon-Fri),Moody ST and Brown Street (MBTA Stop),18:12,18:12,-0.306133333
+08-12-2025,Waltham Shuttle (Mon-Fri),Moody St @ Walnut St (Solea Tapas) (MBTA Stop),18:14,18:13,-0.43945
+08-12-2025,Waltham Shuttle (Mon-Fri),Moody St @ Kung Fu Tea (MBTA Stop),18:17,18:14,-2.039516667
+08-12-2025,Waltham Shuttle (Mon-Fri),140 Moody St @ Enterprise Rent- A- Car (MBTA Stop),18:19,18:16,-2.55625
+08-12-2025,Waltham Shuttle (Mon-Fri),Moody St at Main St (Merc Apartments) (MBTA Stop),18:22,18:19,-2.989433333
+08-12-2025,Waltham Shuttle (Mon-Fri),Main St and Grant Street (MBTA Stop),18:24,18:22,-1.622866667
+08-12-2025,Waltham Shuttle (Mon-Fri),Main St and Fiske Street (MBTA Stop),18:25,18:24,-0.67275
+08-12-2025,Waltham Shuttle (Mon-Fri),Main St and Hammond St (MBTA Stop),18:25,18:25,0.260533333
+08-12-2025,Waltham Shuttle (Mon-Fri),South St @ Walgreens (MBTA Stop),18:27,18:28,1.393866667
+08-12-2025,Waltham Shuttle (Mon-Fri),66 South St @ Giglio Dental (MBTA Stop),18:27,18:29,1.777133333
+08-12-2025,Waltham Shuttle (Mon-Fri),South St and Bedford Street (MBTA Stop),18:28,18:30,2.060483333
+08-12-2025,Waltham Shuttle (Mon-Fri),Shakespeare Rd  and  South St (Southbound) (MBTA Stop),18:29,18:31,1.527166667
+08-12-2025,Waltham Shuttle (Mon-Fri),South Street (southbound) (MBTA Stop),18:31,18:32,1.010516667
+08-12-2025,Waltham Shuttle (Mon-Fri),Counseling Center (Mailman),18:33,18:33,0.110583333
+08-12-2025,Waltham Shuttle (Mon-Fri),Usdan Student Center (across from Rabb steps),18:35,18:34,-0.256166667
+08-12-2025,Waltham Shuttle (Mon-Fri),Hassenfeld Lot,18:36,18:37,1.560566667
+08-12-2025,Waltham Shuttle (Mon-Fri),Spingold (front ),18:40,18:38,-1.722883333
+08-12-2025,Waltham Shuttle (Mon-Fri),Admissions,18:41,18:40,-0.189516667
+08-12-2025,Waltham Shuttle (Mon-Fri),South St @ Gosman Athletic Ctr (MBTA Stop),18:43,18:42,-0.356116667
+08-12-2025,Waltham Shuttle (Mon-Fri),Shakespeare Rd and South St (Northbound) (MBTA Stop),18:44,18:43,-0.03945
+08-12-2025,Waltham Shuttle (Mon-Fri),Highland St and South St Northbound (MBTA Stop),18:45,18:44,-0.606233333
+08-12-2025,Waltham Shuttle (Mon-Fri),Highland St & Prospect St (Teo Mini Mart),18:46,18:45,-0.106266667
+08-12-2025,Waltham Shuttle (Mon-Fri),Crescent St @ Cherry St (in front of Watch Factory) (MBTA Stop),18:49,18:47,-1.422783333
+08-12-2025,Waltham Shuttle (Mon-Fri),Crescent St and Brown St (MBTA Stop),18:49,18:48,-1.43945
+08-12-2025,Waltham Shuttle (Mon-Fri),Crescent St and Woerd Ave,18:50,18:48,-1.5062
+08-12-2025,Waltham Shuttle (Mon-Fri),Moody St and Washington Ave (MBTA Stop),18:52,18:50,-1.906283333
+08-12-2025,Waltham Shuttle (Mon-Fri),Moody ST and Brown Street (MBTA Stop),18:52,18:51,-0.9229
+08-12-2025,Waltham Shuttle (Mon-Fri),Moody St @ Walnut St (Solea Tapas) (MBTA Stop),18:54,18:53,-0.639516667
+08-12-2025,Waltham Shuttle (Mon-Fri),Moody St @ Kung Fu Tea (MBTA Stop),18:57,18:54,-2.506016667
+08-12-2025,Waltham Shuttle (Mon-Fri),140 Moody St @ Enterprise Rent- A- Car (MBTA Stop),18:59,18:56,-2.856166667
+08-12-2025,Waltham Shuttle (Mon-Fri),Moody St at Main St (Merc Apartments) (MBTA Stop),19:02,18:59,-2.2062
+08-12-2025,Waltham Shuttle (Mon-Fri),Main St and Grant Street (MBTA Stop),19:04,19:02,-1.122866667
+08-12-2025,Waltham Shuttle (Mon-Fri),Main St and Fiske Street (MBTA Stop),19:05,19:03,-1.356083333
+08-12-2025,Waltham Shuttle (Mon-Fri),Main St and Hammond St (MBTA Stop),19:05,19:04,-0.889516667
+08-12-2025,Waltham Shuttle (Mon-Fri),South St @ Walgreens (MBTA Stop),19:07,19:06,-0.006266667
+08-12-2025,Waltham Shuttle (Mon-Fri),66 South St @ Giglio Dental (MBTA Stop),19:07,19:07,0.143833333
+08-12-2025,Waltham Shuttle (Mon-Fri),South St and Bedford Street (MBTA Stop),19:08,19:08,0.377166667
+08-12-2025,Waltham Shuttle (Mon-Fri),Shakespeare Rd  and  South St (Southbound) (MBTA Stop),19:09,19:09,0.14395
+08-12-2025,Waltham Shuttle (Mon-Fri),South Street (southbound) (MBTA Stop),19:11,19:10,-0.072983333
+08-12-2025,Waltham Shuttle (Mon-Fri),Counseling Center (Mailman),19:13,19:12,-0.5563
+08-12-2025,Waltham Shuttle (Mon-Fri),Usdan Student Center (across from Rabb steps),19:15,19:14,-0.839516667
+08-12-2025,Waltham Shuttle (Mon-Fri),Hassenfeld Lot,19:16,19:17,1.5272
+08-12-2025,Waltham Shuttle (Mon-Fri),Spingold (front ),19:20,19:18,-1.68955
+08-12-2025,Waltham Shuttle (Mon-Fri),Admissions,19:21,19:20,-0.122966667
+08-12-2025,Waltham Shuttle (Mon-Fri),South St @ Gosman Athletic Ctr (MBTA Stop),19:23,19:23,0.5604
+08-12-2025,Waltham Shuttle (Mon-Fri),Shakespeare Rd and South St (Northbound) (MBTA Stop),19:24,19:24,0.527266667
+08-12-2025,Waltham Shuttle (Mon-Fri),Highland St and South St Northbound (MBTA Stop),19:25,19:24,-0.039566667
+08-12-2025,Waltham Shuttle (Mon-Fri),Highland St & Prospect St (Teo Mini Mart),19:26,19:26,0.810533333
+08-12-2025,Waltham Shuttle (Mon-Fri),Crescent St @ Cherry St (in front of Watch Factory) (MBTA Stop),19:29,19:28,-0.18955
+08-12-2025,Waltham Shuttle (Mon-Fri),Crescent St and Brown St (MBTA Stop),19:29,19:29,0.027233333
+08-12-2025,Waltham Shuttle (Mon-Fri),Crescent St and Woerd Ave,19:30,19:30,0.3104
+08-12-2025,Waltham Shuttle (Mon-Fri),Moody St and Washington Ave (MBTA Stop),19:32,19:32,0.093766667
+08-12-2025,Waltham Shuttle (Mon-Fri),Moody ST and Brown Street (MBTA Stop),19:32,19:32,0.393816667
+08-12-2025,Waltham Shuttle (Mon-Fri),Moody St @ Walnut St (Solea Tapas) (MBTA Stop),19:34,19:35,1.07715
+08-12-2025,Waltham Shuttle (Mon-Fri),Moody St @ Kung Fu Tea (MBTA Stop),19:37,19:36,-0.88945
+08-12-2025,Waltham Shuttle (Mon-Fri),140 Moody St @ Enterprise Rent- A- Car (MBTA Stop),19:39,19:37,-1.422933333
+08-12-2025,Waltham Shuttle (Mon-Fri),Moody St at Main St (Merc Apartments) (MBTA Stop),19:42,19:40,-1.772866667
+08-12-2025,Waltham Shuttle (Mon-Fri),Main St and Grant Street (MBTA Stop),19:44,19:43,-0.506266667
+08-12-2025,Waltham Shuttle (Mon-Fri),Main St and Fiske Street (MBTA Stop),19:45,19:44,-0.339533333
+08-12-2025,Waltham Shuttle (Mon-Fri),Main St and Hammond St (MBTA Stop),19:45,19:45,-0.07285
+08-12-2025,Waltham Shuttle (Mon-Fri),South St @ Walgreens (MBTA Stop),19:47,19:47,0.827033333
+08-12-2025,Waltham Shuttle (Mon-Fri),66 South St @ Giglio Dental (MBTA Stop),19:47,19:48,0.893816667
+08-12-2025,Waltham Shuttle (Mon-Fri),South St and Bedford Street (MBTA Stop),19:48,19:48,0.860533333
+08-12-2025,Waltham Shuttle (Mon-Fri),Shakespeare Rd  and  South St (Southbound) (MBTA Stop),19:49,19:51,1.710483333
+08-12-2025,Waltham Shuttle (Mon-Fri),South Street (southbound) (MBTA Stop),19:51,19:51,0.827216667
+08-12-2025,Waltham Shuttle (Mon-Fri),Counseling Center (Mailman),19:53,19:53,0.24385
+08-12-2025,Waltham Shuttle (Mon-Fri),Usdan Student Center (across from Rabb steps),19:55,19:54,-0.50615
+08-12-2025,Waltham Shuttle (Mon-Fri),Hassenfeld Lot,19:56,19:57,1.043733333
+08-12-2025,Waltham Shuttle (Mon-Fri),Spingold (front ),20:00,19:57,-2.406133333
+08-12-2025,Waltham Shuttle (Mon-Fri),Admissions,20:01,20:00,-0.172866667
+08-12-2025,Waltham Shuttle (Mon-Fri),South St @ Gosman Athletic Ctr (MBTA Stop),20:03,20:02,-0.422733333
+08-12-2025,Waltham Shuttle (Mon-Fri),Shakespeare Rd and South St (Northbound) (MBTA Stop),20:04,20:04,0.3105
+08-12-2025,Waltham Shuttle (Mon-Fri),Highland St and South St Northbound (MBTA Stop),20:05,20:04,-0.256183333
+08-12-2025,Waltham Shuttle (Mon-Fri),Highland St & Prospect St (Teo Mini Mart),20:06,20:06,0.343833333
+08-12-2025,Waltham Shuttle (Mon-Fri),Crescent St @ Cherry St (in front of Watch Factory) (MBTA Stop),20:09,20:08,-0.706166667
+08-12-2025,Waltham Shuttle (Mon-Fri),Crescent St and Brown St (MBTA Stop),20:09,20:09,-0.3062
+08-12-2025,Waltham Shuttle (Mon-Fri),Crescent St and Woerd Ave,20:10,20:09,-0.356216667
+08-12-2025,Waltham Shuttle (Mon-Fri),Moody St and Washington Ave (MBTA Stop),20:12,20:11,-0.606216667
+08-12-2025,Waltham Shuttle (Mon-Fri),Moody ST and Brown Street (MBTA Stop),20:12,20:12,-0.206
+08-12-2025,Waltham Shuttle (Mon-Fri),Moody St @ Walnut St (Solea Tapas) (MBTA Stop),20:14,20:14,0.777066667
+08-12-2025,Waltham Shuttle (Mon-Fri),Moody St @ Kung Fu Tea (MBTA Stop),20:17,20:16,-0.506116667
+08-12-2025,Waltham Shuttle (Mon-Fri),140 Moody St @ Enterprise Rent- A- Car (MBTA Stop),20:19,20:17,-1.789583333
+08-12-2025,Waltham Shuttle (Mon-Fri),Moody St at Main St (Merc Apartments) (MBTA Stop),20:22,20:19,-2.45615
+08-12-2025,Waltham Shuttle (Mon-Fri),Main St and Grant Street (MBTA Stop),20:24,20:23,-0.4395
+08-12-2025,Waltham Shuttle (Mon-Fri),Main St and Fiske Street (MBTA Stop),20:25,20:25,0.37735
+08-12-2025,Waltham Shuttle (Mon-Fri),Main St and Hammond St (MBTA Stop),20:25,20:26,0.877283333
+08-12-2025,Waltham Shuttle (Mon-Fri),South St @ Walgreens (MBTA Stop),20:27,20:28,1.243783333
+08-12-2025,Waltham Shuttle (Mon-Fri),66 South St @ Giglio Dental (MBTA Stop),20:27,20:29,1.693783333
+08-12-2025,Waltham Shuttle (Mon-Fri),South St and Bedford Street (MBTA Stop),20:28,20:29,1.943866667
+08-12-2025,Waltham Shuttle (Mon-Fri),Shakespeare Rd  and  South St (Southbound) (MBTA Stop),20:29,20:31,2.110566667
+08-12-2025,Waltham Shuttle (Mon-Fri),South Street (southbound) (MBTA Stop),20:31,20:32,1.560516667
+08-12-2025,Waltham Shuttle (Mon-Fri),Counseling Center (Mailman),20:33,20:33,0.743933333
+08-12-2025,Waltham Shuttle (Mon-Fri),Usdan Student Center (across from Rabb steps),20:35,20:35,0.277266667
+08-12-2025,Waltham Shuttle (Mon-Fri),Hassenfeld Lot,20:36,20:37,1.944033333
