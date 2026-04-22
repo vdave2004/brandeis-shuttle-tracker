@@ -1,5 +1,3 @@
-# shuttle-delay-prediction-dashboard
-
 # Real-Time Brandeis Shuttle Tracking and Delay Prediction Dashboard
 
 ![Dashboard View 1](Dashboard.png)
@@ -44,3 +42,11 @@ Students often face uncertainty regarding shuttle arrival times due to inconsist
 ## Outcome
 
 Developed a practical solution to improve campus commuting visibility by making shuttle tracking more accessible and user-friendly.
+
+## How to Run
+
+1. Clone the repository
+2. Install dependencies:
+   pip install -r requirements.txt
+3. Run the app:
+   streamlit run app.py
