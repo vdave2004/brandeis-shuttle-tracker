@@ -2,6 +2,10 @@
 
 # Real-Time Brandeis Shuttle Tracking and Delay Prediction Dashboard
 
+![Dashboard View 1](Dashboard.png)
+
+![Dashboard View 2](Dashboard2.png)
+
 ## Overview
 
 This project focuses on building a real-time shuttle tracking system for the Brandeis/Waltham shuttle network using live Tripshot data. The goal was to make shuttle movement and delays easier to understand for students through a simple and intuitive interface.
